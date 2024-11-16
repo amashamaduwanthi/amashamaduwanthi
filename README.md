@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Java, JavaFX**  
-- 📫 How to reach me: **amashamaduwathi@example.com**  
+- 📫 How to reach me: **amashamaduwathi@gmail.com**  
 - ⚡ Fun fact: I love solving problems and designing intuitive user interfaces.  
 
 ---
