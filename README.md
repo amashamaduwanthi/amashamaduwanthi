@@ -20,15 +20,20 @@
 - **Frontend Frameworks:** React, Angular
 - **Backend Frameworks:** Spring Boot
 - **Tools & Platforms:** Git, Docker, VS Code
-<h3 align="center">📊 GitHub Stats</h3>  
+### 📊 **GitHub Stats**:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amashamaduwathi&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amashamaduwanthi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amashamaduwathi&theme=radical&border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amashamaduwanthi&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amashamaduwathi&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amashamaduwanthi&layout=compact&theme=highcontrast" alt="Top Languages" width="50%" />
+</p>
+---
+### ✍️ **Quote of the Day**:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
