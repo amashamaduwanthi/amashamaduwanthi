@@ -7,6 +7,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amashamaduwanthi&label=Profile%20views&color=brightgreen&style=flat" alt="amashamaduwanthi" />
+  <img src="https://img.shields.io/github/followers/amashamaduwanthi?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/amashamaduwanthi?label=Stars" alt="stars" />
+</p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amashamaduwanthi&theme=darkhub&no-frame=true&row=1&column=6" alt="amashamaduwanthi" /></a> 
+</p>
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
+---
+
 - I’m currently learning **React, Angular, Python, Spring Boot, Java, JavaFX**
 - 💼 Aspiring **System Engineer** and **Tech Enthusiast**  
 🎯 Focused on growing as a **Software Engineer** and **Thought Leader**  
@@ -38,7 +53,4 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amashamaduwathi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+
