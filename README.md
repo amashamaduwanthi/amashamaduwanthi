@@ -22,7 +22,7 @@
 </p>
 ---
 
-- I’m currently learning **React, Angular, Python, Spring Boot, Java, JavaFX**
+- I’m currently learning **React, Angular, Python, Spring Boot, Java, JavaScript,TypeScript**
 - 💼 Aspiring **System Engineer** and **Tech Enthusiast**  
 🎯 Focused on growing as a **Software Engineer** and **Thought Leader**  
 - 📫 How to reach me: **amashamaduwathi123@gmail.com**  
