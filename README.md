@@ -27,7 +27,7 @@
 🎯 Focused on growing as a **Software Engineer** and **Thought Leader**  
 - 📫 How to reach me: **amashamaduwathi123@gmail.com**  
 - ⚡ Fun fact: I love solving problems and designing intuitive user interfaces.
-- here you can see my professional portfolio **https://amashamaduwanthi.github.io/personal-portfolio/**
+- here you can see my professional portfolio **[https://amashamaduwanthi.github.io/personal-portfolio/](https://amashamaduwanthi.github.io/my_portfolio_react/)**
 
 ---
 
